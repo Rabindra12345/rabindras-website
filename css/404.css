@@ -10,3 +10,11 @@ body {
   justify-content: center;
   align-items: center;
 }
+.image-flude{
+  height: 450px;
+  width: 100%;
+}
+.emoji{
+  font-size: 40px;
+  color: red;
+}
