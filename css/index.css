@@ -188,3 +188,8 @@ a.text-white-link:active {
 	color: #E61231 !important;
 	font-weight: bold;
 }
+.aboutme{
+  margin-left: 5px;
+  margin-right: 5px;
+  text-emphasis-color: blue;
+}
