@@ -194,12 +194,3 @@ a.text-white-link:active {
   text-emphasis-color: blue;
   background-color: orange;
 }
-.img-what{
-  
-  margin-left: 0px !important;
- height: 1px !important;
- width: 5px !important;
- opacity: 1.5 !important;
- border-radius:50% !important;
-
-}
