@@ -194,3 +194,8 @@ a.text-white-link:active {
   text-emphasis-color: blue;
   background-color: orange;
 }
+.img-what{
+ height: 20px;
+ width: 10px;
+ opacity: 1.5;
+}
